@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_result">result</string>
+    <string name="title_activity_details">details</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
